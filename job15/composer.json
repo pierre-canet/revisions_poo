@@ -1,0 +1,10 @@
+{
+    "name": "hp/revisions_poo",
+    "description": "composer_first_try",
+    "require": {},
+    "autoload": {
+    "psr-4": {
+        "App\\": "src/"
+    }
+}
+}
